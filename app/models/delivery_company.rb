@@ -1,0 +1,2 @@
+class DeliveryCompany < ApplicationRecord
+end
