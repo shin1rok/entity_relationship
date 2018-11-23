@@ -1,5 +1,5 @@
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
-/Users/shin/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181114-55780-12juvdx.rb extconf.rb
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
+/Users/shin/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181123-68490-x8smeo.rb extconf.rb
 checking for unistd.h... yes
 checking for sys/select.h... yes
 checking for port_event_t in poll.h... no
@@ -10,10 +10,10 @@ checking for port_event_t in port.h... no
 checking for sys/resource.h... yes
 creating Makefile
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
 make "DESTDIR=" clean
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
 make "DESTDIR="
 compiling bytebuffer.c
 compiling monitor.c
@@ -245,6 +245,6 @@ ev_set_allocator (void *(*cb)(void *ptr, long size) EV_THROW) EV_THROW
 compiling selector.c
 linking shared-object nio4r_ext.bundle
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20181114-55780-1lqwnsw
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20181123-68490-ghyxue

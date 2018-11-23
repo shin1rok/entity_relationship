@@ -1,15 +1,15 @@
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
-/Users/shin/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181114-55780-1hnc8b5.rb extconf.rb
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/shin/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181123-68490-nh42pc.rb extconf.rb
 creating Makefile
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
 make "DESTDIR=" clean
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
 make "DESTDIR="
 compiling bootsnap.c
 linking shared-object bootsnap/bootsnap.bundle
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20181114-55780-mu2zgt/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20181123-68490-qjq3hz/bootsnap

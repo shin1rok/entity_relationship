@@ -1,5 +1,5 @@
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.2/ext/mysql2
-/Users/shin/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181114-55780-1a8ees6.rb extconf.rb
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.2/ext/mysql2
+/Users/shin/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181123-68490-1sijpdg.rb extconf.rb
 checking for rb_absint_size()... yes
 checking for rb_absint_singlebit_p()... yes
 checking for rb_wait_for_single_fd()... yes
@@ -27,10 +27,10 @@ Setting rpath to /usr/local/Cellar/mysql/8.0.12/lib
 -----
 creating Makefile
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.2/ext/mysql2
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.2/ext/mysql2
 make "DESTDIR=" clean
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.2/ext/mysql2
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.2/ext/mysql2
 make "DESTDIR="
 compiling client.c
 compiling infile.c
@@ -39,6 +39,6 @@ compiling result.c
 compiling statement.c
 linking shared-object mysql2/mysql2.bundle
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.2/ext/mysql2
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.2/ext/mysql2
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 mysql2.bundle ./.gem.20181114-55780-1f10x83/mysql2
+/usr/bin/install -c -m 0755 mysql2.bundle ./.gem.20181123-68490-1ceqzoe/mysql2

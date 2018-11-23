@@ -1,15 +1,15 @@
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
-/Users/shin/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181114-55780-1rmj10k.rb extconf.rb
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/shin/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181123-68490-wpo8qe.rb extconf.rb
 creating Makefile
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
 make "DESTDIR=" clean
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
 make "DESTDIR="
 compiling cruby.c
 linking shared-object bindex/cruby.bundle
 
-current directory: /Users/shin/RubymineProjects/EC_ER/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+current directory: /Users/shin/RubymineProjects/entity_relationship/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20181114-55780-sawxrw/bindex
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20181123-68490-1vuoqjq/bindex
