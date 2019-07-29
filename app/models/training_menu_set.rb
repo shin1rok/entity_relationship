@@ -1,0 +1,2 @@
+class TrainingMenuSet < ApplicationRecord
+end
